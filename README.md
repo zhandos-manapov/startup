@@ -1,1 +1,1 @@
-TinDog Starting Files
+# Landing page for social media app 
